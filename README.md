@@ -47,8 +47,9 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+### Name: EASWAR R
+### Register Number: 212223230053
+![image](https://github.com/user-attachments/assets/88034994-f258-425c-b898-f97c00400fa2)
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
